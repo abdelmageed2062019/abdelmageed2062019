@@ -2,14 +2,13 @@
 
 👋 Hi there! I'm Abdelmageed Hamdi, a passionate Frontend Developer based in Cairo, Egypt. I build clean, responsive, and scalable web applications using modern technologies like **React**, **Angular**, and **TypeScript**.
 
-## 🌐 Portfolio
-📎 [abdelmageed-hamdi-portofolio.vercel.app](https://abdelmageed-hamdi-portofolio.vercel.app)
+##  Portfolio
+📎 [https://abdelmageed-hmi.netlify.app/](https://abdelmageed-hmi.netlify.app/)
 
-## 📬 Contact
-📧 Email: abdelmageedhamdi@gmail.com  
-📱 Phone: +20 102 664 0658  
-💼 LinkedIn: [linkedin.com/in/abdelmageed-hamdy](https://www.linkedin.com/in/abdelmageed-hamdy)  
-💻 GitHub: [github.com/abdelmageed2062019](https://github.com/abdelmageed2062019)
+##  Contact
+ Email: abdelmageedhamdi@gmail.com  
+ Phone: +20 102 664 0658  
+ LinkedIn: [linkedin.com/in/abdelmageed-hamdy](https://www.linkedin.com/in/abdelmageed-hamdy)  
 
 ---
 
