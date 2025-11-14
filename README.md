@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-With over 2 years of experience as a frontend developer, I specialize in building intuitive and responsive user interfaces that solve real-world problems. I enjoy transforming Figma designs into pixel-perfect components, integrating APIs, and optimizing for performance and maintainability.
+With over 4 years of experience as a frontend developer, I specialize in building intuitive and responsive user interfaces that solve real-world problems. I enjoy transforming Figma designs into pixel-perfect components, integrating APIs, and optimizing for performance and maintainability.
 
 I’ve worked in both agency environments and on freelance projects—collaborating with designers, backend developers, and clients to deliver features that are scalable and user-focused.
 
