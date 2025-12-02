@@ -22,22 +22,41 @@ I’ve worked in both agency environments and on freelance projects—collaborat
 
 ## 💼 Experience
 
-**Frontend Developer – Smart Hub** (Present)  
-- Built responsive UIs from Figma designs  
-- Integrated RESTful APIs for authentication and data management  
-- Worked in a cross-functional team to deliver secure, scalable applications
-
-**Freelancer – Yaro Travel Project**  
-- Developed a role-based dashboard with secure login  
-- Implemented booking logic, admin controls, and RESTful APIs  
-- Focused on scalability and clean architecture
-
-**Frontend Developer – Whats.ae**  
-- Created WhatsApp business automation tools using Node.js and React  
-- Achieved full design fidelity and served 20+ clients
-
-**Intern – ITC Company**  
-- Contributed to internal tools and learned key UI/UX practices
+Smart Hub - Full Time, Frontend Developer
+February 2024 – Present
+ | 
+Cairo
+•Translated complex Figma designs into fully responsive, pixel-perfect web applications, ensuring design consistency across devices and browsers.
+•Integrated RESTful APIs to implement secure authentication and scalable database interactions, improving system reliability and maintainability.
+•Collaborated closely with designers and backend engineers to optimize UI rendering, animations, and performance for a smoother, more engaging user experience.
+Samox AI - Part Time, Frontend Developer
+January 2025 – November 2025
+•Developed interactive, data-driven dashboards for smart home devices, providing users with real-time insights and seamless control experiences.
+•Integrated AI-powered voice assistant services, enabling hands-free interaction and improving overall product accessibility.
+•Optimized UI responsiveness and animation performance, ensuring fluid transitions and a consistent experience across devices and platforms.
+World Tech - Part Time, Full Stack Developer
+February 2023 – July 2023
+•Developed scalable backend services using Node.js to manage authentication, data storage, and user sessions, enhancing application reliability and security.
+•Designed and implemented responsive landing pages and UI components for HR management systems, ensuring accessibility and cross-device consistency.
+•Improved overall user experience by refining layouts, fixing UI inconsistencies, and aligning design elements with brand guidelines.
+Yaro Travel - Project-Based, Full Stack Developer
+August 2023 – January 2024
+ | 
+Cairo
+•Implemented secure RESTful APIs with authentication and role based access control, improving data protection and user management efficiency.
+•Developed a scalable admin dashboard for managing bookings and travel packages, streamlining daily operations and enhancing system usability.
+•Enhanced the frontend UI with optimized responsiveness and refined animations, delivering a smoother, more engaging user experience.
+Code and Cores - Full Time, Frontend Developer
+February 2021 – January 2023
+ | 
+Cairo
+•Built responsive React applications from Figma designs, delivering pixel-perfect interfaces that ensured consistent branding and user experience across devices.
+•Developed automated WhatsApp Business solutions using Node.js, streamlining client communication workflows and reducing manual response time.
+•Improved API integration reliability and optimized UI responsiveness, resulting in smoother data synchronization and faster page interactions.
+Freelance, Frontend Developer
+February 2020 – January 2021
+•Built and optimized dynamic websites for 5+ clients using HTML, CSS, JavaScript, and React.
+•Enhanced website responsiveness and animations across various devices.
 
 ---
 
